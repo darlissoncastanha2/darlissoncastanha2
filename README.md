@@ -11,6 +11,6 @@
 
 -Procuro uma empresa que queira ensinar, ajudar, disciplinar e acima de tudo Criar um exelente profissional em desenvolvimento e gestão de banco de dados.
 
--Contato - DarlissonCastanhatopadinho@gmail.com
+-Contato - Darlissoncastanha@gmail.com
 -Me envia uma proposta! 
 - 
