@@ -5,7 +5,7 @@
 
 -Meu nome é Darlisson Emanuel Castanha sou um programador de sistemas em construção.
 
--Já tive contato com liguagens Java e Python. Amo banco de dados 
+-Já tive contato com liguagens Java e Python, banco de dados 
 
 -Atualmente estou aprendendo sobre banco de dados!
 
@@ -13,4 +13,4 @@
 
 -Contato - DarlissonCastanhatopadinho@gmail.com
 -Me envia uma proposta! 
-- GG easy
+- 
